@@ -12,7 +12,7 @@
 ## My Stacks
 
 *  I have basic knowledge of Java, Python, C++, C, R, Kali Linux (which I study using a VM), and a bit of LUA, though I still have much to learn about each of them.
-*  I have a strong command of English, approximately at a C1 level, although it is uncertified, [this might further convince you](https://cert.efset.org/score/4skill/65). In my opinion, my biggest issue is not having a strong enough vocabulary, whether in speaking or writing. I also still make basic writing mistakes from time to time.
+*  I have a strong command of English, approximately at a C1 level, although it is uncertified, [this might further convince you](https://cert.efset.org/en/5Ss2Uj). In my opinion, my biggest issue is not having a strong enough vocabulary, whether in speaking or writing. I also still make basic writing mistakes from time to time.
 
 ## Contact
 
