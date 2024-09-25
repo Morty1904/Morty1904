@@ -4,10 +4,10 @@
 
 ##  About me:
 
-*  I`m a Joung 20 year old rookie that looks forward for learning new stuff every day
-*  I’m currently on a bootcamp with FACTORIAF5 learning all about _Backend.._
-*  All my learnings are from self-learning by watching videos and practice at least for now
-*  I have basic knowledge about Java, Phython, C++, C, R, Kali Linux (i study this one with a VM) and a bit of LUA but still have much to learn about everyone metioned
-* 😅How to reach me: My email is _oscarendercraft@gmail.com_, i look for emails every day so that is the best way to reach me. Also check out my [Instagram](https://www.instagram.com/osc_mbr/), you may 'PM' me there as an additional way of reaching out!
-*  I have a strong command of English, approximately at a C1-C2 level, though it is currently uncertified and it is just a self-evaluation of my own skills(although I'm quite certain about it).
-*  On my free time i usually play rhythm games because there is always room to improve and even the best players have room to improve. I generally like to learn new things about programming, specially when im bored and i enjoy learning most of the time (it wasn`t always fun😰..)
+*  I’m a young 20-year-old rookie who looks forward to learning new things every day.
+*  I’m currently attending a bootcamp with FACTORIAF5, learning all about Backend development.
+*  Much of my knowledge so far comes from self-learning through videos and practice, at least for now.
+*  I have basic knowledge of Java, Python, C++, C, R, Kali Linux (which I study using a VM), and a bit of LUA, though I still have much to learn about each of them.
+*  How to reach me: My email is oscarendercraft@gmail.com, and I check my inbox daily, so that’s the best way to get in touch. You can also check out my Instagram where you can PM me as an additional way to contact me!
+*  I have a strong command of English, approximately at a C1 level, although it is uncertified and based on my self-assessment (but I’m quite confident in it). In my opinion, my biggest issue is not having a strong enough vocabulary, whether in speaking or writing. I also still make basic writing mistakes from time to time. 
+*  In my free time, I usually play rhythm games because there’s always room for improvement, and even the best players can keep getting better. I also enjoy learning new things about programming, especially when I’m bored, and I find it enjoyable most of the time (though it wasn’t always fun).
