@@ -16,4 +16,4 @@
 
 ## Contact
 
-*  My email is oscarendercraft@gmail.com, and I check my inbox daily, so that’s the best way to get in touch. You can also check out my [Instagram](https://www.instagram.com/osc_mbr/) where you can PM me as an additional way to contact me!
+*  My personal email is oscarendercraft@gmail.com but my personal bussiness email is oscarmenendezbusiness@gmail.com, and I check my inbox daily for both emails, so that’s the best way to get in touch. You can also check out my [Linkedin](https://www.linkedin.com/in/%C3%B3scar-men%C3%A9ndez-barrio-b3753a32b/).
