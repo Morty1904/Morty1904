@@ -4,9 +4,9 @@
 
 ##  About me
 
-*  I’m a young 20-year-old rookie who looks forward to learning new things every day.
+*  I’m a young 20-year-old rookie who looks forward to learn new stuff every day.
 *  I’m currently attending a bootcamp with FACTORIAF5, learning all about Backend development.
-*  Much of my knowledge so far comes from self-learning through videos and practice, at least for now.
+*  Much of my knowledge so far comes from self-learning through videos and practice.
 *  In my free time, I usually play rhythm games because there’s always room for improvement, and even the best players can keep getting better. I also enjoy learning new things about programming, especially when I’m bored, and I find it enjoyable most of the time (though it wasn’t always fun).
 
 ## My Stacks
